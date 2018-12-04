@@ -1,3 +1,5 @@
 wget
 unzip
 pciutils
+vim
+nano
