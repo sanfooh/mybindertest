@@ -5,6 +5,7 @@ vim
 nano
 openjdk-8-jre
 openjdk-8-jdk
+android-sdk
 flex
 patch
 pkg-config
