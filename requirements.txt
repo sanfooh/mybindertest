@@ -7,4 +7,3 @@ Cython
 opencv-python
 pillow
 lxml
-pycocotools
