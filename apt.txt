@@ -3,3 +3,15 @@ unzip
 pciutils
 vim
 nano
+flex
+patch
+pkg-config
+protobuf-compiler
+ragel
+subversion
+automake
+ant
+autopoint
+cmake
+build-essential
+libtool
