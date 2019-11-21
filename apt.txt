@@ -15,3 +15,4 @@ autopoint
 cmake
 build-essential
 libtool
+zip
