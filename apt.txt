@@ -16,3 +16,10 @@ cmake
 build-essential
 libtool
 zip
+apt-get
+install
+g++
+make
+expat
+libexpat1-dev
+zlib1g-dev
