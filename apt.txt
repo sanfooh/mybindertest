@@ -1,6 +1,5 @@
 wget
 libtool
 zip
-install
 g++
 make
