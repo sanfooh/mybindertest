@@ -3,3 +3,4 @@ libtool
 zip
 g++
 make
+steam
