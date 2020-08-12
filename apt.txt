@@ -3,4 +3,4 @@ libtool
 zip
 g++
 make
-steam
+libgl1-mesa-dev
