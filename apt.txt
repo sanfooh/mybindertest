@@ -4,4 +4,3 @@ zip
 g++
 make
 libgl1-mesa-dev
-nuitka
